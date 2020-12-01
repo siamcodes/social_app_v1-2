@@ -1,0 +1,12 @@
+{
+  "name": "social_app_v1",
+  "displayName": "social_app_v1",
+  "expo": {
+    "name": "social_app_v1",
+    "slug": "social_app_v1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
